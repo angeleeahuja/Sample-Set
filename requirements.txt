@@ -8,5 +8,4 @@ streamlit
 cohere
 langchain-core
 python-dotenv
-mimetypes
 os
