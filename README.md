@@ -45,3 +45,9 @@ Installation Steps:
 8. Run the Application:
 
    streamlit run sample_set.py
+
+# Pulling a Docker Image
+
+docker pull angeleeahuja/sample-set
+
+docker run -p 8501:8501 angeleeahuja/sample_set
