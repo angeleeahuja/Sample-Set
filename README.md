@@ -21,19 +21,24 @@ Before running the application, ensure you have the following installed on your 
 
 Installation Steps:
 1. Clone the Repository:
--git clone https://github.com/angeleeahuja/Sample-Set.git
--cd Sample-Set
 
-2. Set Up a Virtual Environment (Optional but recommended):
--python3 -m venv venv
--venv\Scripts\activate
+git clone https://github.com/angeleeahuja/Sample-Set.git
+cd Sample-Set
 
-3. Install the Dependencies:
--pip install -r requirements.txt
+3. Set Up a Virtual Environment (Optional but recommended):
 
-4. Configure Environment Variables: Create a .env file in the project root and add the following:
--COHERE_API_KEY= your-cohere-api-key
--PINECONE_API_KEY= your-pinecone-api-key
+python3 -m venv venv
+venv\Scripts\activate
 
-5. Run the Application:
--streamlit run sample_set.py
+4. Install the Dependencies:
+
+pip install -r requirements.txt
+
+5. Configure Environment Variables: Create a .env file in the project root and add the following:
+
+COHERE_API_KEY= your-cohere-api-key
+PINECONE_API_KEY= your-pinecone-api-key
+
+6. Run the Application:
+
+streamlit run sample_set.py
