@@ -1,0 +1,12 @@
+pinecone-client 
+langchain-community 
+pypdf 
+langchain-cohere 
+langchain_pinecone
+langchain
+streamlit
+cohere
+langchain-core
+python-dotenv
+mimetypes
+os
