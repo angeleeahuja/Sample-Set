@@ -1,5 +1,5 @@
 # Overview
-DocuQuery is an interactive query bot that allows users to upload documents, ask questions, and receive both generated answers and relevant document segments. Powered by Streamlit, Pinecone, Cohere, and LangChain, this application provides an efficient way to retrieve and analyze information from uploaded files.
+It is an interactive query bot that allows users to upload documents, ask questions, and receive both generated answers and relevant document segments. Powered by Streamlit, Pinecone, Cohere, and LangChain, this application provides an efficient way to retrieve and analyze information from uploaded files.
 
 # Features
 1. File Uploads: Users can upload files in PDF format to extract text for querying.
