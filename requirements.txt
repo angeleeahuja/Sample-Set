@@ -1,11 +1,7 @@
-pinecone-client 
-langchain-community 
-pypdf 
-langchain-cohere 
-langchain_pinecone
-langchain
 streamlit
-cohere
-langchain-core
 python-dotenv
-os
+PyMuPDF
+langchain
+langchain-pinecone
+langchain-cohere
+pinecone-client
